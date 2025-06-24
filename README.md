@@ -34,7 +34,7 @@ my-website/
 - [Optionally add Bootstrap or JS if used later]
 
 ## 🚀 Deployment
-
+  
 You can host this website using:
 
 - **GitHub Pages**  
