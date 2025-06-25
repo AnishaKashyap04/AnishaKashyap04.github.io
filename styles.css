@@ -58,12 +58,12 @@ footer {
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   width: 100%;
-  max-width: 1000px;
+  max-width: 500px;
   height: auto;
 }
 
 .photo-grid figure {
-  flex: 1 1 1000px;
+  flex: 1 1 500px;
 }
 
 
