@@ -81,7 +81,7 @@ footer {
 }
 
 .photo-grid img {
-  width: 150%;
+  width: 100%;
   height: 500px;        /* controls image height */
   object-fit: cover;    /* crop/scale image to fill the space */
   border-radius: 8px;
