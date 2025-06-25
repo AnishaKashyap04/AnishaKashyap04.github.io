@@ -95,7 +95,7 @@ footer {
 }
 
 body {
-  background-image: url('pngtree-abstract-network-and-technological-image-of-blue-red-network-picture-image_2684034.png');
+  background-image: url('bg.png');
   background-size: cover;         /* Scale the image to cover entire background */
   background-repeat: no-repeat;   /* Prevent tiling */
   background-position: center;    /* Center the image */
