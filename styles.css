@@ -70,8 +70,8 @@ footer {
 }
 
 .photo-grid figure {
-  width: 450px;        /* fixed width */
-  height: 450px;       /* fixed height */
+  width: 400px;        /* fixed width */
+  height: 400px;       /* fixed height */
   margin: 0;
   text-align: center;
   overflow: hidden;    /* hide overflow from tall images */
