@@ -99,5 +99,6 @@ body {
   background-size: cover;         /* Scale the image to cover entire background */
   background-repeat: no-repeat;   /* Prevent tiling */
   background-position: center;    /* Center the image */
+  opacity: 1;  
 }
 
